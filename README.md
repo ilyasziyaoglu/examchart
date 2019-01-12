@@ -1,3 +1,36 @@
+# Exam and Curriculum Manager
+**version 1.0.0**
+
+## Aims and goals
+Prepare the most efficient exam and course schedule in less time with more parameters.
+
+### Goal
+The aim of the project is to prevent the time lost by the lecturers in preparing the exam program, to increase the difficulty of communication, to use the school resources efficiently, to speed up the communication of the problems such as the quality management of the time, the number of classes and capacity in the preparation of the program.
+
+### Goals
+#### The first version is 1.
+With this software, it is aimed to provide classroom, time and capacity management in a dynamic way while preparing exam programs and course programs.
+
+#### Second version 2.
+Reading data from files in common format.
+In the second version of the automatic examination and the creation of the curriculum.
+Reporting in common formats is intended.
+
+#### Third version 3.
+In the third version, it will be tried to be easily integrated into university information systems.
+
+I would be happy if you contribute in every sense, support or helped develop.
+
+## Setup
+1. After cloning or downloading the repository, you can open the .pro file in the main folder with Qt Creator.
+
+2. You can then run and develop the project after updating the database connection information by opening the sql.cpp file.
+
+3. There is a test database under the "database" folder in the project main folder. You can import it or enter your own data.
+
+4. Since the project is in development stage, no installation wizard has been created yet.
+
+
 # Sınav ve Ders Programı Yöneticisi
 **version 1.0.0**
 
