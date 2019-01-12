@@ -1,4 +1,4 @@
-# Exam and Curriculum Manager
+# Exam and Course Chart Manager
 **version 1.0.0**
 
 ## Aims and goals
@@ -13,7 +13,7 @@ With this software, it is aimed to provide classroom, time and capacity manageme
 
 #### Second version 2.
 Reading data from files in common format.
-In the second version of the automatic examination and the creation of the curriculum.
+In the second version of the automatic examination and the creation of the course chart.
 Reporting in common formats is intended.
 
 #### Third version 3.
